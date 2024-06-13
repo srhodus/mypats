@@ -1,0 +1,5 @@
+<RCC>
+    <qresource prefix="/" >
+        <file>pixmaps/kde-standard-cards-GPL.xpm</file>
+    </qresource>
+</RCC>
