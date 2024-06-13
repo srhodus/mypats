@@ -1,0 +1,9 @@
+build/
+a.out
+.qmake.stash
+Makefile
+*.o
+*.d
+moc_*.*
+qrc_*.*
+*.moc
